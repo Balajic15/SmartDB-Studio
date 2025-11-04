@@ -55,3 +55,5 @@ Perform all SQL operations without writing queries manually:
 ### 🤖 AI Integration
 - Built-in **AI assistant** helps users generate SQL queries automatically in plain English!  
   Example:
+  <img width="1496" height="911" alt="{E594A6AC-9436-4D71-8006-8D161BFB65A1}" src="https://github.com/user-attachments/assets/243fe27a-f8f5-4caf-b38c-8f0a2d9d215f" />
+
